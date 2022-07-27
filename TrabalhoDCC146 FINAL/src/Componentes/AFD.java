@@ -1,5 +1,5 @@
 /**
- * TRABALHO PRÁTICO - DCC146 ASPECTOS TEÓRICOS DA COMPUTAÇÃO 2021/1
+ * TRABALHO PRÁTICO - DCC146 ASPECTOS TEÓRICOS DA COMPUTAÇÃO
  * Professor: GLEIPH GHIOTTO LIMA DE MENEZES
  * Autores: Juarez de Paula Campos Júnior  Matrícula: 201676022
  *          Luiz Guilherme Almas Araujo    Matrícula: 201676050
